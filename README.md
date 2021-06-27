@@ -1,2 +1,2 @@
-#React Shopping Chart
+# React Shopping Chart
 My first React App
